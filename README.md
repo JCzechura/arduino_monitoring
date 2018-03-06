@@ -1,4 +1,4 @@
-# arduino_monitoring
+# Arduino project that collects data during the route of a garbage truck.
 
 PL:
 
